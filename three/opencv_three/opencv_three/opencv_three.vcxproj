@@ -125,6 +125,8 @@
     <ClCompile Include="案例一切边旋转.cpp" />
     <ClCompile Include="案例三对象提取.cpp" />
     <ClCompile Include="案例二直线检测.cpp" />
+    <ClCompile Include="案例五透视变换.cpp" />
+    <ClCompile Include="案例六对象提取与测量.cpp" />
     <ClCompile Include="案例四对象计数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
