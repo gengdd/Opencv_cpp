@@ -131,6 +131,7 @@
     <ClCompile Include="Haar与LBP_1.cpp" />
     <ClCompile Include="Haar与LBP_2.cpp" />
     <ClCompile Include="Harr与LBP_3.cpp" />
+    <ClCompile Include="LBP级联分类器训练.cpp" />
     <ClCompile Include="视频人脸检测与眼睛跟踪.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

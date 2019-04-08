@@ -27,5 +27,8 @@
     <ClCompile Include="视频人脸检测与眼睛跟踪.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LBP级联分类器训练.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
